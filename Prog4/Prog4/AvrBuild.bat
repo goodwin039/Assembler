@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\ProjectsGit\Assembler\Prog4\Prog4\labels.tmp" -fI -W+ie -C V2 -o "D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.hex" -d "D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.obj" -e "D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.eep" -m "D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.map" "D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm"

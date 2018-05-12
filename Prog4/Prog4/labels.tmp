@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>D:\ProjectsGit\Assembler\Prog4\Prog4</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>26</LINE></main>
+  <label_3><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>32</LINE></label_3>
+  <label_1><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>40</LINE></label_1>
+  <delay><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>48</LINE></delay>
+  <label_2><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>43</LINE></label_2>
+  <d1><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>53</LINE></d1>
+  <exit><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>65</LINE></exit>
+  <d2><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>57</LINE></d2>
+  <d3><FILE>D:\ProjectsGit\Assembler\Prog4\Prog4\Prog4.asm</FILE><LINE>61</LINE></d3>
+ </LABELS>
+</ASSEMBLER_INFO>
